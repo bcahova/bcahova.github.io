@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Library - refurbishment of a current mall, decreasing energy need"
+thumbnail_columns: 6
+thumbnail_url: '/images/knihovna_01_thumb.jpg'
+images: [
+  { 'url' : '/images/knihovna_01.jpg', 'thumb_url' : '/images/knihovna_01_thumb.jpg', 'title' : 'view from the upper square' },
+  { 'url' : '/images/knihovna_02.jpg', 'thumb_url' : '/images/knihovna_02_thumb.jpg', 'title' : 'view from the bottom square' },
+  { 'url' : '/images/knihovna_03.jpg', 'thumb_url' : '/images/knihovna_03_thumb.jpg', 'title' : 'view from the bottom square' },
+  { 'url' : '/images/knihovna_04.jpg', 'thumb_url' : '/images/knihovna_04_thumb.jpg', 'title' : 'view from the upper square' },
+  { 'url' : '/images/knihovna_05.jpg', 'thumb_url' : '/images/knihovna_05_thumb.jpg', 'title' : 'interior-colouring according to different levels' },
+  { 'url' : '/images/knihovna_06.jpg', 'thumb_url' : '/images/knihovna_06_thumb.jpg', 'title' : 'interior-colouring according to different levels' },
+  { 'url' : '/images/knihovna_07.jpg', 'thumb_url' : '/images/knihovna_07_thumb.jpg', 'title' : 'interior-colouring according to different levels' },
+  { 'url' : '/images/knihovna_08.jpg', 'thumb_url' : '/images/knihovna_08_thumb.jpg', 'title' : 'interior-colouring according to different levels' },
+  { 'url' : '/images/knihovna_081.jpg', 'thumb_url' : '/images/knihovna_081_thumb.jpg', 'title' : 'interior-colouring according to different levels' },
+  { 'url' : '/images/knihovna_082.jpg', 'thumb_url' : '/images/knihovna_082_thumb.jpg', 'title' : 'interior-colouring according to different levels' },
+  { 'url' : '/images/knihovna_09.jpg', 'thumb_url' : '/images/knihovna_09_thumb.jpg', 'title' : 'location' },
+  { 'url' : '/images/knihovna_10.jpg', 'thumb_url' : '/images/knihovna_10_thumb.jpg', 'title' : 'entrance floor plan' },
+  { 'url' : '/images/knihovna_11.jpg', 'thumb_url' : '/images/knihovna_11_thumb.jpg', 'title' : 'typical floor plan' },
+  { 'url' : '/images/knihovna_12.jpg', 'thumb_url' : '/images/knihovna_12_thumb.jpg', 'title' : 'fifth floor plan' },
+  { 'url' : '/images/knihovna_13.jpg', 'thumb_url' : '/images/knihovna_13_thumb.jpg', 'title' : 'section' },
+  { 'url' : '/images/knihovna_14.jpg', 'thumb_url' : '/images/knihovna_14_thumb.jpg', 'title' : 'energy scheme' },
+  { 'url' : '/images/knihovna_15.jpg', 'thumb_url' : '/images/knihovna_15_thumb.jpg', 'title' : 'energy performances' },
+]
+---
+<p><b>Revitalization of the department store Prior to the regional and academic library in the centre of Jihlava town</b></p>
+
+<p><b>(2014, CTU)</b></p>
+
+<p><i>Supervisor: prof. Ing. Jan Tywoniak, CSc. (Supervisor of architecture part: Ing. arch. Jaroslav Daďa)</i></p>
+
+<p>The purpose of the diploma thesis was a conceptual proposition of a library located on the Masaryk square in Jihlava instead of a current mall, Prior. Current construction support system of the mall is utilized in the design. The designs of architectural, mass, structural and technical solutions were designed in consideration with the historical and urban development of the square. An energy concept of the designed library is a part of the diploma thesis as well. Instead of the mall standing on the Jihlava square nowadays, there used to be a complex of medieval houses which was destroyed in 1974. Subsequently, a new construction of the mall Prior was initiated at the location of the demolished complex of medieval buildings. Presently, the massive building is not quite in harmony with the surrounding historical buildings.</p>
+
+<p>The diploma thesis tenders a concept of solution to this problem. Plans of the new building – library – are rounded and a façade of the library reflect the surrounding historical buildings.</p>
+
+<p>In energy design of the building, there is a concept of energy solution that includes the utilization of catacombs to which the library is connected. This connection allows energy to be spared on heating and cooling the building – it is possible to intake air beyond historical centre and then lead the air in pipes through the catacombs to heat pumps, or use some of the many wells that are located in the underground of Jihlava.</p>

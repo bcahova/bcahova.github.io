@@ -1,23 +1,14 @@
 ---
 layout: default
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="row">
+  {% for project in site.posts %}
+    {% if forloop.counter0|divisibleby:3 and forloop.counter0 != 0 %}</div><div class="row">{% endif %}
+    <div class="col-sm-{{ project.thumbnail_columns }}" >
+      <a href="{{ project.url }}" class="nounderline">
+        <img src="{{ project.thumbnail_url | prepend: site.baseurl }}" class="img-responsive">
+        <div class="caption"><h5>{{ project.title }}</h5></div>
+      </a>
+    </div>
+  {% endfor %}
 </div>

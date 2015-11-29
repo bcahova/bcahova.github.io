@@ -1,15 +1,51 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+<script src="{{ "/static/galleria/galleria-1.4.2.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/static/galleria/galleria.classic.min.js" | prepend: site.baseurl}}"></script>
+<script>
+<!--
+window.onload = function () {
+    var data = [
+      {% for image in page.images %}
+        { image: '{{ image.url }}', thumb: '{{ image.thumb_url }}', title: '{{ image.title }}'},
+      {% endfor %}
+    ];
+    $('.galleria').show();
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+    Galleria.loadTheme('{{ "portfolio/galleria/galleria.classic.min.js" | prepend: site.baseurl }}');
+    Galleria.run('.galleria', {
+        dataSource: data
+    });
 
+    Galleria.ready(function () {
+        this.attachKeyboard({
+            right: this.next,
+            left: this.prev
+        });
+    this.bind('image', function(e) {
+            $(e.imageTarget).click(this.proxy(function() {
+               this.openLightbox();
+            }));
+        });
+    });
+}
+//-->
+</script>
+
+<h3>{{ page.title }}</h3>
+<div class="row">
+  <div class="col-md-8 right-vertical-line">
+    <div class="galleria"></div>
+      <noscript>
+        {% for image in page.images %}
+          <img src="{{ image.url }}" alt="{{ image.title }}" class="img-responsive">
+        {% endfor %}
+      </noscript>
+  </div>
+  <div class="col-md-4 text-justify">
+    <h2 class="align-top">Description:</h2>
+    <div>{{ content }}</div>
+  </div>
 </div>
