@@ -1,0 +1,17 @@
+---
+layout: post
+title :  "facades of a complex of family houses"
+thumbnail_columns: 4
+thumbnail_url: '/images/hk_fasady_01_thumb.jpg'
+images: [
+{ 'url' : '/images/hk_fasady_01.jpg', 'thumb_url' : '/images/hk_fasady_01_thumb.jpg', 'title' : 'facades of a complex of family houses' },{ 'url' : '/images/hk_fasady_02.jpg', 'thumb_url' : '/images/hk_fasady_02_thumb.jpg', 'title' : 'facades of a complex of family houses' },{ 'url' : '/images/hk_fasady_03.jpg', 'thumb_url' : '/images/hk_fasady_03_thumb.jpg', 'title' : 'facades of a complex of family houses' },{ 'url' : '/images/hk_fasady_04.jpg', 'thumb_url' : '/images/hk_fasady_04_thumb.jpg', 'title' : 'facades of a complex of family houses' },
+]
+---
+<p><b>Facades of a complex of family houses in Jihlava, Horní Kosov</b></p>
+
+<p><b>(2013, Obchodní projekt Jihlava spol. s r.o.)</b></p>
+
+<p>Complex of family houses was designed on the plot next to a condo and other family houses in Jihlava, part "Horní Kosov". Requirement of the investor was to unify new family houses with each other.</p>
+
+<p>The complex consists three same two-storey houses and one single storey house. White colour should have peacefully unify the complex.</p>
+

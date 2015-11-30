@@ -2,8 +2,9 @@
 layout: default
 ---
 <div class="row">
-  {% for project in site.posts %}
-    {% if forloop.counter0|divisibleby:3 and forloop.counter0 != 0 %}</div><div class="row">{% endif %}
+  {% for project in site.posts reversed %}
+    {% assign loopindex = forloop.index0 | modulo: 3 %}
+    {% if loopindex == 0 and forloop.index0 != 0 %}</div><div class="row">{% endif %}
     <div class="col-sm-{{ project.thumbnail_columns }}" >
       <a href="{{ project.url }}" class="nounderline">
         <img src="{{ project.thumbnail_url | prepend: site.baseurl }}" class="img-responsive">

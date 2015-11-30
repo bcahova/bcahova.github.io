@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Library - refurbishment of a current mall, decreasing energy need"
+title:  "library - refurbishment of a current mall, decreasing energy need"
 thumbnail_columns: 6
 thumbnail_url: '/images/knihovna_01_thumb.jpg'
 images: [

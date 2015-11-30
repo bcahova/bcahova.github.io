@@ -1,0 +1,34 @@
+---
+layout: post
+title :  "family house doln&#237; š&#225;rka"
+thumbnail_columns: 4
+thumbnail_url: '/images/rd_sarka_01_thumb.jpg'
+images: [
+{ 'url' : '/images/rd_sarka_01.jpg', 'thumb_url' : '/images/rd_sarka_01_thumb.jpg', 'title' : "family house with architect\\'s studio" },
+{ 'url' : '/images/rd_sarka_02.jpg', 'thumb_url' : '/images/rd_sarka_02_thumb.jpg', 'title' : "family house with architect\\'s studio" },
+{ 'url' : '/images/rd_sarka_03.jpg', 'thumb_url' : '/images/rd_sarka_03_thumb.jpg', 'title' : "family house with architect\\'s studio" },
+{ 'url' : '/images/rd_sarka_04.jpg', 'thumb_url' : '/images/rd_sarka_04_thumb.jpg', 'title' : "family house with architect\\'s studio" },
+{ 'url' : '/images/rd_sarka_05.jpg', 'thumb_url' : '/images/rd_sarka_05_thumb.jpg', 'title' : "family house with architect\\'s studio" },
+{ 'url' : '/images/rd_sarka_06.jpg', 'thumb_url' : '/images/rd_sarka_06_thumb.jpg', 'title' : "family house with architect\\'s studio" },
+{ 'url' : '/images/rd_sarka_07.jpg', 'thumb_url' : '/images/rd_sarka_07_thumb.jpg', 'title' : 'location' },
+{ 'url' : '/images/rd_sarka_09.jpg', 'thumb_url' : '/images/rd_sarka_09_thumb.jpg', 'title' : "entrance floor - version 1 - architect\\'s studio" },
+{ 'url' : '/images/rd_sarka_08.jpg', 'thumb_url' : '/images/rd_sarka_08_thumb.jpg', 'title' : 'entrance floor - version 2 - studio flat' },
+{ 'url' : '/images/rd_sarka_10.jpg', 'thumb_url' : '/images/rd_sarka_10_thumb.jpg', 'title' : 'first floor' },
+{ 'url' : '/images/rd_sarka_11.jpg', 'thumb_url' : '/images/rd_sarka_11_thumb.jpg', 'title' : 'section A-A' },
+{ 'url' : '/images/rd_sarka_12.jpg', 'thumb_url' : '/images/rd_sarka_12_thumb.jpg', 'title' : 'section B-B' },
+]
+---
+
+<p><b>Family house Dolní Šárka (in Prague)</b></p>
+
+<p><b>(2012, CTU)</b></p>
+
+<p><i>Supervisor: Ing. arch. Jaroslav Daďa </i></p>
+
+<p>Concept of the house is based on current developmnet, view to the valley and dominant above the valley - St. Matthews´chapel in Dejvice in Prague. Metaphorically current development of family houses reminds spectators looking up to the chapel showing baroque arts at the stage of surrounding hills. Designed family house is one of spectators - white lady with an elegant boa.</p>
+
+<p>On the ground floor there is an atelier of architect which can be transformed to a flat, living area for family is designed in the second storey so it could be connected to the garden. This solution is based on slopin terrain which is typical for this area. </p>
+
+<p>The main element of the design is a balcony which prevents bedrooms from overheating in summer months and gives some kind of privacy to the rooms inside.</p>
+
+<p>The building has combined structural system - walls of reinforced concrete and columns made of steel. Slabs are also made of reinforced concrete.</p>

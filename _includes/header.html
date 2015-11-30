@@ -11,13 +11,10 @@
 
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="{{ "" | prepend: site.baseurl }}">my work</a></li>
-
-      {% for page in site.pages %}
-        {% if page.title %}
-        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-        {% endif %}
-      {% endfor %}
+        <li {% if page.active == null or page.active == 'my work' %}class="active"{% endif %}><a href="{{ "/" | prepend: site.baseurl }}">my work</a></li>
+      {% for link in site.pages %}{% if link.title %}
+        <li {% if page.url == link.url %}class="active"{% endif %}><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a></li>
+      {% endif %}{% endfor %}
     </div>
   </div>
 </nav>

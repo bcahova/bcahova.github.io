@@ -1,0 +1,23 @@
+---
+layout: post
+title :  "polenska apartment builidng"
+thumbnail_columns: 3
+thumbnail_url: '/images/polenska_01_thumb.jpg'
+images: [
+{ 'url' : '/images/polenska_01.jpg', 'thumb_url' : '/images/polenska_01_thumb.jpg', 'title' : 'new apartment building instead of a family house' },
+{ 'url' : '/images/polenska_02.jpg', 'thumb_url' : '/images/polenska_02_thumb.jpg', 'title' : 'new apartment building instead of a family house' },
+{ 'url' : '/images/polenska_03.jpg', 'thumb_url' : '/images/polenska_03_thumb.jpg', 'title' : 'new apartment building instead of a family house' },
+{ 'url' : '/images/polenska_04.jpg', 'thumb_url' : '/images/polenska_04_thumb.jpg', 'title' : 'entrance floor plan' },
+{ 'url' : '/images/polenska_05.jpg', 'thumb_url' : '/images/polenska_05_thumb.jpg', 'title' : 'first floor plan' },
+{ 'url' : '/images/polenska_06.jpg', 'thumb_url' : '/images/polenska_06_thumb.jpg', 'title' : 'second floor plan' },
+{ 'url' : '/images/polenska_07.jpg', 'thumb_url' : '/images/polenska_07_thumb.jpg', 'title' : 'section' },
+]
+---
+
+<p><b>Polenska apartment building</b></p>
+
+<p><b>(2012, Obchodní projekt Jihlava spol. s r.o.)</b></p>
+
+<p>Apartment building was designed on the street "Polenská" in Jihlava. On of the investrors´requirement was designing balcony for each appartement. A main concept of the building was based on that and each user can choose a contact either with town on the Southeastern side or with woods in the Northwestern side. Inside of balconies there is a red colour to emphasize and deepen the space created by balconies.</p>
+
+<p>The building is designed on the rock and because of the foundations, it is designed as half floor displaced. There are 8 appartements in the building.</p>

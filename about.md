@@ -2,6 +2,7 @@
 layout: default
 title: about&CV
 permalink: /about/
+active: about
 ---
 <div class="col-lg-offset-2 col-lg-8 col-md-offset-1 col-md-10 col-sm-12" >
 <h2>About Me</h2>
@@ -121,45 +122,55 @@ Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech tec
   Technical University in Brno, Faculty of Civil Engineering<br>
   Theme of diploma thesis: <i>Glider airfield airport in Brno - Medlánky</i><br>
   (Master´s degree <b><i>"Ing. arch."</i></b>)<br>
-  • <i>Architecture, landscaping, creating cities</i>
+  <ul>
+   <li><i>Architecture, landscaping, creating cities</i></li>
+  </ul>
  </td>
 </tr>
 
-<tr><td class="no-border"><div class="text-right">2012 – 2014</div></td><td><b><i>University – Master´s Degree – Buildings and Environment</i></b><br><i>Field of study: Building Structures</i><br>Czech Technical University in Prague, Faculty of Civil Engineering<br>Theme of diploma thesis: <i>„Revitalization of the department store Prior to a regional and academic library in the centre of Jihlava  town“</i><br>
-
-(Master´s degree <b><i>"Ing."</i></b>)<br>
-
-
-
-<i>•	Sustainable development, sustainable landscaping, EPCs calculating, energy audit, passive houses, low-energy need houses, building thermal engineering</i></td></tr>
-
-
-
-<tr><td class="no-border"><div class="text-right">2010 – 2013</div></td><td><b><i>University – Bachelor´s degree – Special Education Teacher Training</i></b><br> <i>Masaryk Institute of Advanced Studies,  Specialization in Pedagogy</i><br>
-
-(Bachelor´s degree  <b><i>"Bc."</i></b>)	</td></tr>
-
-
-
-<td class="no-border"><div class="text-right">2008 – 2012</div></td>
-
-<td><b><i>University – Bachelor´s degree – Architecture and Building Engineering </i></b><br>Czech Technical University in Prague, Faculty of Civil Engineering<br>Theme of bachelor thesis: <i>„Family house with architectural atelier“ </i><br>
-
-(Bachelor´s degree <b><i>"Bc."</i></b>)<br>	<i>•	Architecture, landscaping, creating cities</i></td></tr>
-
-
-
-
-
-<td>
-
-Qualifications/courses:
-
-    <div class="text-right">2014/06</span>
-
+<tr>
+ <td class="no-border">
+  <div class="text-right">2012 – 2014</div>
  </td>
+ <td>
+  <b><i>University – Master´s Degree – Buildings and Environment</i></b><br>
+  <i>Field of study: Building Structures</i><br>
+  Czech Technical University in Prague, Faculty of Civil Engineering<br>
+  Theme of diploma thesis: <i>„Revitalization of the department store Prior to a regional and academic library in the centre of Jihlava  town“</i><br>
+  (Master´s degree <b><i>"Ing."</i></b>)<br>
+  <i>•	Sustainable development, sustainable landscaping, EPCs calculating, energy audit, passive houses, low-energy need houses, building thermal engineering</i>
+ </td>
+</tr>
 
-<td><br>Energy efficiency of buildings (Conference about sustainability, Centre of a passive house, Brno)</td></tr>
+<tr>
+ <td class="no-border">
+  <div class="text-right">2010 – 2013</div>
+ </td>
+ <td>
+  <b><i>University – Bachelor´s degree – Special Education Teacher Training</i></b><br>
+  <i>Masaryk Institute of Advanced Studies,  Specialization in Pedagogy</i><br>
+  (Bachelor´s degree  <b><i>"Bc."</i></b>)
+ </td>
+</tr>
+
+<tr>
+ <td class="no-border"><div class="text-right">2008 – 2012</div></td>
+ <td>
+  <b><i>University – Bachelor´s degree – Architecture and Building Engineering </i></b><br>
+  Czech Technical University in Prague, Faculty of Civil Engineering<br>
+  Theme of bachelor thesis: <i>„Family house with architectural atelier“ </i><br>
+  (Bachelor´s degree <b><i>"Bc."</i></b>)<br>
+  <i>• Architecture, landscaping, creating cities</i>
+ </td>
+</tr>
+
+<tr>
+ <td>
+  Qualifications/courses: <div class="text-right">2014/06</span>
+ </td>
+ <td><br>Energy efficiency of buildings (Conference about sustainability, Centre of a passive house, Brno)
+ </td>
+</tr>
 
 <tr><td class="no-border"><div class="text-right">2014/03</div></td><td>Driving licence "B"</td></tr>
 
@@ -171,57 +182,49 @@ Qualifications/courses:
 
 <tr><td class="no-border"><div class="text-right">2008/07</div></td><td>Art courses in Lásenice (Doc. Ing. arch. Pavel Bouška CSc.)</td></tr>
 
-
-
-
-
-
-
-
-
-
+<tr>
+ <td>
+  <div class="row">
+    <div class="col-md-6">Languages:</div>
+    <div class="col-md-6 text-right">2010/09</div>
+  </div>
+ </td>
+ <td>English language (State language exam B2 level in 2007)</td>
+</tr>
 
 <tr>
+ <td class="no-border">
+  <div class="text-right">2008/07</div>
+ </td>
+ <td>French language (Beginner)</td>
+</tr>
 
+<tr>
+ <td class="no-border"><div class="text-right">2008/07</div></td>
+ <td>German language (Beginner)</td>
+</tr>
+
+<tr>
+ <td>Software knowledge: </td>
  <td>
+  <i>Advanced: </i>  AutoCAD, CADKON, Autodesk Revit Architecture, Zoner Photo studio, Svoboda software, PROTECH, MS Office <br>
+  <i>Intermediate:</i> Sketch-up, Adobe  Photoshop, Envimat <br>
+  <i>Basics:</i> HTML code, 3Ds Max, TRN SYS, Vektorworks<br>
+ </td>
+</tr>
 
-  <div class="row">
-
-    <div class="col-md-6">Languages:</div>
-
-    <div class="col-md-6 text-right">2010/09</div>
-
-  </div>
-
-</td><td>English language (State language exam B2 level in 2007)</td></tr>
-
-<tr><td class="no-border"><div class="text-right">2008/07</div></td><td>French language (Beginner)</td></tr>
-
-<tr><td class="no-border"><div class="text-right">2008/07</div></td><td>German language (Beginner)  </td></tr>
-
-
-
-<tr><td>Software knowledge: </td>   				<td><i>Advanced: </i>  AutoCAD, CADKON, Autodesk Revit Architecture, Zoner Photo studio, Svoboda software, PROTECH, MS Office <br>
-
-<i>Intermediate:</i> Sketch-up, Adobe  Photoshop, Envimat <br>
-
-<i>Basics:</i> HTML code, 3Ds Max, TRN SYS, Vektorworks<br></td></tr>
-
-<tr><td>Hobbies: </td> 
-
-
-
-<td><ul style="padding-left: 0px;"><li>Architecture, design, 3D programs, photography</li>
-
-<li>Sustainable development, natural materials, new technologies in architecture, green architecture</li>
-
-<li>Dancing - contemporary dance, ballet</li>
-
-<li>Drawing, painting</li>
-
-<li>Playing the piano</li>
-
-<li>Psychology</li></ul></td></tr>
-
+<tr>
+ <td>Hobbies: </td>
+ <td>
+  <ul style="padding-left: 0px;">
+   <li>Architecture, design, 3D programs, photography</li>
+   <li>Sustainable development, natural materials, new technologies in architecture, green architecture</li>
+   <li>Dancing - contemporary dance, ballet</li>
+   <li>Drawing, painting</li>
+   <li>Playing the piano</li>
+   <li>Psychology</li>
+  </ul>
+ </td>
+</tr>
 </table>
 </div>

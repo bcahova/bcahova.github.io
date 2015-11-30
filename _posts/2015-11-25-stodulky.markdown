@@ -1,0 +1,23 @@
+---
+layout: post
+title :  "apartment building &quot;stodulky&quot;"
+thumbnail_columns: 3
+thumbnail_url: '/images/stodulky_01_thumb.jpg'
+images: [
+{ 'url' : '/images/stodulky_01.jpg', 'thumb_url' : '/images/stodulky_01_thumb.jpg', 'title' : 'view from a street' },
+{ 'url' : '/images/stodulky_02.jpg', 'thumb_url' : '/images/stodulky_02_thumb.jpg', 'title' : 'view from the garden' },
+{ 'url' : '/images/stodulky_03.jpg', 'thumb_url' : '/images/stodulky_03_thumb.jpg', 'title' : 'view from the garden' },
+{ 'url' : '/images/stodulky_04.jpg', 'thumb_url' : '/images/stodulky_04_thumb.jpg', 'title' : 'view from the garden' },
+{ 'url' : '/images/stodulky_05.jpg', 'thumb_url' : '/images/stodulky_05_thumb.jpg', 'title' : 'first level floor plan' },
+{ 'url' : '/images/stodulky_06.jpg', 'thumb_url' : '/images/stodulky_06_thumb.jpg', 'title' : 'second level floor plan' },
+{ 'url' : '/images/stodulky_07.jpg', 'thumb_url' : '/images/stodulky_07_thumb.jpg', 'title' : 'third level floor plan' },
+{ 'url' : '/images/stodulky_08.jpg', 'thumb_url' : '/images/stodulky_08_thumb.jpg', 'title' : 'section' },
+]
+---
+<p><b>Apartment building "Stodůlky" in Prague</b></p>
+
+<p><b>(2009, CTU)</b><p>
+
+<p><i>Supervisors: Ing. arch. Jaroslav Daďa, doc. Akad. arch. Mikuláš Hulec, Ing. Akad. arch. Jiří Pošmourný </i></p>
+
+<p>Building appartement is located in "Stodůlky" in Prague.  In this locality there is a slope terrain and nice view to Prague on Nortwestern side. Construction is based on wall support system and slabs of reinforced concerte. The main architectural element is appreciable on windows - each window wants to have a nice view and they have to line up like some kind of puzzle.</p>
