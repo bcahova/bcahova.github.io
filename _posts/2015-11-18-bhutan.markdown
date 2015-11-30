@@ -19,7 +19,7 @@ images: [
 
 <p><b>(2013, CTU)</b></p>
 
-<p><i>Supervisor: Ing. Jan Tilinger PhD.</i><p>
+<p><i>Supervisor: Ing. Jan Tilinger PhD.</i></p>
 
 <p>Literacy of the Bhutan Kingdom is 42% therefore it is one of the least literate country in the world. There is no compulsory school attendance, most people are farmers. Information had been transmited orally for many centuries, so that there aren´t any libraries in Bhutan. The goal of this project was to choose a land which would be useful because of its location, search for local climate, think through material and technical options and design a school based on bhutanesse architecture. Its structural and technical solution was also required.</p>
 

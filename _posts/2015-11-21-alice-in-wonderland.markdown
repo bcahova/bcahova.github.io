@@ -18,7 +18,7 @@ images: [
 ]
 ---
 
-<p><b>Kindergarten "Alice in Wonderland" </b></p>
+<p><b>Kindergarten "Alice in Wonderland"</b></p>
 
 <p><b>(2009, CTU)</b></p>
 

@@ -7,7 +7,7 @@ layout: default
     {% if loopindex == 0 and forloop.index0 != 0 %}</div><div class="row">{% endif %}
     <div class="col-sm-{{ project.thumbnail_columns }}" >
       <a href="{{ project.url }}" class="nounderline">
-        <img src="{{ project.thumbnail_url | prepend: site.baseurl }}" class="img-responsive">
+        <img src="{{ project.thumbnail_url | prepend: site.baseurl }}" class="img-responsive" alt="{{ project.title }}">
         <div class="caption"><h5>{{ project.title }}</h5></div>
       </a>
     </div>

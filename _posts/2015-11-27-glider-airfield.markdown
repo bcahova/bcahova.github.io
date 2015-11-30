@@ -28,7 +28,7 @@ images: [
 
 <p><b>(2015, BUT)</b></p>
 
-<p><i>prof. Ing. arch. Jiljí Šindlar CSc. </i><p>
+<p><i>prof. Ing. arch. Jiljí Šindlar CSc. </i></p>
 
 <p>In Brno - Medlánky, there is a current glider airfield airport with old wooden hangars and with many types of buildings without urbanistic order. The new design is inspirated by the scarf of Little prince by Exupéry and taking off gliders.</p>
 

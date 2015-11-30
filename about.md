@@ -1,6 +1,6 @@
 ---
 layout: default
-title: about&CV
+title: about&amp;CV
 permalink: /about/
 active: about
 ---
@@ -112,7 +112,7 @@ Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech tec
  <td>
   <div class="row">
     <div class="col-md-4">Education:</div>
-    <div class="col-md-8 text-right">2013 – 2015
+    <div class="col-md-8 text-right">2013 – 2015</div>
   </div>
  </td>
 
@@ -166,7 +166,7 @@ Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech tec
 
 <tr>
  <td>
-  Qualifications/courses: <div class="text-right">2014/06</span>
+  Qualifications/courses: <div class="text-right">2014/06</div>
  </td>
  <td><br>Energy efficiency of buildings (Conference about sustainability, Centre of a passive house, Brno)
  </td>

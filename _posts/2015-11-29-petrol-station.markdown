@@ -18,9 +18,8 @@ images: [
 ---
 <p><b>Petrol station roofing for HAS</b></p>
 
-<p><b>(2015)</b><p>
+<p><b>(2015)</b></p>
 
-<p><i> Obchodní projekt Jihlava spol. s r.o.</p></i>
+<p><i> Obchodní projekt Jihlava spol. s r.o.</i></p>
 
 <p> Investor had a requirement to design roofing above petrol stands with his logo on it. It was designed in three variations.</p>
-

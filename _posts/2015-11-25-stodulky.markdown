@@ -16,7 +16,7 @@ images: [
 ---
 <p><b>Apartment building "Stodůlky" in Prague</b></p>
 
-<p><b>(2009, CTU)</b><p>
+<p><b>(2009, CTU)</b></p>
 
 <p><i>Supervisors: Ing. arch. Jaroslav Daďa, doc. Akad. arch. Mikuláš Hulec, Ing. Akad. arch. Jiří Pošmourný </i></p>
 
