@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .navbar-default {
     background-color: #fff;
     border-color: #eee;
-    height: 40px;
+    min-height: 40px;
 }
 
 .body-content {
@@ -42,6 +42,16 @@ textarea {
 
 .nounderline {
     text-decoration: none !important;
+}
+
+.noborder {
+    border-width: 0px !important;
+}
+
+.navbar-border {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #eee;
 }
 
 .right-vertical-line {

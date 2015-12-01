@@ -1,21 +1,23 @@
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/">Blanka Cahov&#225;</a>
-    </div>
+<div class="container">
+  <nav class="navbar navbar-default navbar-fixed-top container noborder">
+    <div class="navbar-border">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">Blanka Cahov&#225;</a>
+      </div>
 
-    <div class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <li {% if page.active == null or page.active == 'my work' %}class="active"{% endif %}><a href="{{ "/" | prepend: site.baseurl }}">my work</a></li>
-      {% for link in site.pages %}{% if link.title %}
-        <li {% if page.url == link.url %}class="active"{% endif %}><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a></li>
-      {% endif %}{% endfor %}
-      </ul>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li {% if page.active == null or page.active == 'my work' %}class="active"{% endif %}><a href="{{ "/" | prepend: site.baseurl }}">my work</a></li>
+        {% for link in site.pages %}{% if link.title %}
+          <li {% if page.url == link.url %}class="active"{% endif %}><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a></li>
+        {% endif %}{% endfor %}
+        </ul>
+      </div>
     </div>
-  </div>
-</nav>
+  </nav>
+</div>
