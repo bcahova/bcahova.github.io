@@ -4,7 +4,7 @@ title: about&amp;CV
 permalink: /about/
 active: about
 ---
-<div class="col-lg-offset-2 col-lg-8 col-md-offset-1 col-md-10 col-sm-12" >
+<div class="row col-lg-offset-2 col-lg-8 col-md-offset-1 col-md-10 col-sm-12" >
 <h2>About Me</h2>
 <table class="table">
   <tr>
