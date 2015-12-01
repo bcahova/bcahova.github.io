@@ -79,3 +79,7 @@ textarea {
 .align-top{
     margin-top: 0;
 }
+
+.cv-text {
+  width: 150px;
+}

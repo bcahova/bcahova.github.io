@@ -5,7 +5,7 @@ permalink: /about/
 active: about
 ---
 <div class="row col-lg-offset-2 col-lg-8 col-md-offset-1 col-md-10 col-sm-12" >
-<h2>About Me</h2>
+<h1 class="h3">About Me</h1>
 <table class="table">
   <tr>
     <td>
@@ -19,7 +19,7 @@ Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech tec
   </tr>
 </table>
 
-<h2>My CV</h2>
+<h1 class="h3">Contact Details</h1>
 <table class="table">
 <tr>
   <td>Degrees, name and surname: </td>
@@ -45,9 +45,12 @@ Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech tec
   <td>Nationality: </td>
   <td>Czech Republic</td>
 </tr>
+</table>
 
+<h1 class="h3">Work Experience</h1>
+<table class="table">
 <tr>
-  <td>Work experience: <div class="text-right">2014/07 – 2014/09</div></td>
+  <td class="cv-text">2014/07 – 2014/09</td>
   <td>
    <i><b>K4 Architects – Internship in Birmingham, UK</b></i><br>
    <i>Model making, drawing steel ceiling, drawing flat interiors (Vektorworks, Sketch up)</i>
@@ -55,9 +58,7 @@ Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech tec
 </tr>
 
 <tr>
-  <td class="no-border">
-   <div class="text-right">2011/06 – 2015/05</div>
-  </td>
+  <td class="cv-text">2011/06 – 2015/05</td>
   <td>
    <i><b>Obchodní projekt Jihlava s.r.o. – architectural assistant, designer</b></i><br><br>
    <b>Responsibilities:</b><br>
@@ -107,14 +108,13 @@ Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech tec
    <i>Documentation for building permit, Documentation for building construction, Designing construction details (AutoCAD, Adobe Photoshop) </i> <br><br>
   </td>
 </tr>
+</table>
+
+<h1 class="h3">Education</h1>
+<table class="table">
 
 <tr>
- <td>
-  <div class="row">
-    <div class="col-md-4">Education:</div>
-    <div class="col-md-8 text-right">2013 – 2015</div>
-  </div>
- </td>
+ <td class="cv-text">2013 – 2015</td>
 
  <td>
   <b><i>University – Master´s Degree – Architecture and Urban Development</i></b><br>
@@ -129,9 +129,7 @@ Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech tec
 </tr>
 
 <tr>
- <td class="no-border">
-  <div class="text-right">2012 – 2014</div>
- </td>
+ <td class="cv-text">2012 – 2014</td>
  <td>
   <b><i>University – Master´s Degree – Buildings and Environment</i></b><br>
   <i>Field of study: Building Structures</i><br>
@@ -143,9 +141,7 @@ Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech tec
 </tr>
 
 <tr>
- <td class="no-border">
-  <div class="text-right">2010 – 2013</div>
- </td>
+ <td class="cv-text">2010 – 2013</td>
  <td>
   <b><i>University – Bachelor´s degree – Special Education Teacher Training</i></b><br>
   <i>Masaryk Institute of Advanced Studies,  Specialization in Pedagogy</i><br>
@@ -154,7 +150,7 @@ Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech tec
 </tr>
 
 <tr>
- <td class="no-border"><div class="text-right">2008 – 2012</div></td>
+ <td class="cv-text">2008 – 2012</div></td>
  <td>
   <b><i>University – Bachelor´s degree – Architecture and Building Engineering </i></b><br>
   Czech Technical University in Prague, Faculty of Civil Engineering<br>
@@ -164,57 +160,69 @@ Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech tec
  </td>
 </tr>
 
+</table>
+
+<h1 class="h3">Qualifications&amp;Courses</h1>
+<table class="table">
 <tr>
- <td>
-  Qualifications/courses: <div class="text-right">2014/06</div>
- </td>
- <td><br>Energy efficiency of buildings (Conference about sustainability, Centre of a passive house, Brno)
- </td>
+ <td class="cv-text">2014/06</td>
+ <td>Energy efficiency of buildings (Conference about sustainability, Centre of a passive house, Brno)</td>
 </tr>
 
-<tr><td class="no-border"><div class="text-right">2014/03</div></td><td>Driving licence "B"</td></tr>
+<tr><td class="cv-text">2014/03</td><td>Driving licence "B"</td></tr>
 
-<tr><td class="no-border"><div class="text-right">2012/11</div></td><td>Training Autodesk Revit 13 (AB Studio)</td></tr>
+<tr><td class="cv-text">2012/11</td><td>Training Autodesk Revit 13 (AB Studio)</td></tr>
 
-<tr><td class="no-border"><div class="text-right">SS 2012 – 2013</div></td><td>Digital Photo Processing (Faculty of Electrical Engineering, Czech Technical University in Prague)</td></tr>
+<tr><td class="cv-text">SS 2012 – 2013</td><td>Digital Photo Processing (Faculty of Electrical Engineering, Czech Technical University in Prague)</td></tr>
 
-<tr><td class="no-border"><div class="text-right">2010/09</div></td><td>Drawing in the open air – Telč (Department of Architecture, Faculty of Civil Engineering, Czech Technical University in Prague)</td></tr>
+<tr><td class="cv-text">2010/09</td><td>Drawing in the open air – Telč (Department of Architecture, Faculty of Civil Engineering, Czech Technical University in Prague)</td></tr>
 
-<tr><td class="no-border"><div class="text-right">2008/07</div></td><td>Art courses in Lásenice (Doc. Ing. arch. Pavel Bouška CSc.)</td></tr>
+<tr><td class="cv-text">2008/07</td><td>Art courses in Lásenice (Doc. Ing. arch. Pavel Bouška CSc.)</td></tr>
 
+</table>
+
+<h1 class="h3">Languages</h1>
+<table class="table">
 <tr>
- <td>
-  <div class="row">
-    <div class="col-md-6">Languages:</div>
-    <div class="col-md-6 text-right">2010/09</div>
-  </div>
- </td>
+ <td class="cv-text">2010/09</td>
  <td>English language (State language exam B2 level in 2007)</td>
 </tr>
 
 <tr>
- <td class="no-border">
-  <div class="text-right">2008/07</div>
- </td>
+ <td class="cv-text">2008/07</td>
  <td>French language (Beginner)</td>
 </tr>
 
 <tr>
- <td class="no-border"><div class="text-right">2008/07</div></td>
+ <td class="cv-text">2008/07</td>
  <td>German language (Beginner)</td>
 </tr>
 
+</table>
+
+<h1 class="h3">Software Knowledge</h1>
+<table class="table">
 <tr>
- <td>Software knowledge: </td>
- <td>
-  <i>Advanced: </i>  AutoCAD, CADKON, Autodesk Revit Architecture, Zoner Photo studio, Svoboda software, PROTECH, MS Office <br>
-  <i>Intermediate:</i> Sketch-up, Adobe  Photoshop, Envimat <br>
-  <i>Basics:</i> HTML code, 3Ds Max, TRN SYS, Vektorworks<br>
- </td>
+ <td class="cv-text">Advanced:</td>
+ <td>AutoCAD, CADKON, Autodesk Revit Architecture, Zoner Photo studio, Svoboda software, PROTECH, MS Office</td>
 </tr>
 
 <tr>
- <td>Hobbies: </td>
+ <td class="cv-text">Intermediate:</td>
+ <td>Sketch-up, Adobe  Photoshop, Envimat</td>
+</tr>
+
+<tr>
+ <td class="cv-text">Basics:</td>
+ <td>HTML code, 3Ds Max, TRN SYS, Vektorworks</td>
+</tr>
+
+</table>
+
+<h1 class="h3">Hobbies</h1>
+<table class="table">
+<tr>
+ <td><td>
  <td>
   <ul style="padding-left: 0px;">
    <li>Architecture, design, 3D programs, photography</li>
