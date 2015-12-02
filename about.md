@@ -13,7 +13,7 @@ active: about
     </td>
     <td>
       <div class="text-justify">
-Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech technical universities, one from Architecture, one from Buildings and Environment - the part of Civil Engineering which deals with sustainability, new technologies and building thermal engineering. Thanks to these two fields of study I am able to design sustainable projects, passive or low energy buildings, calculate EPCs, and incorporate new technologies into designs. To extend my knowledge I started to work for a small studio in Jihlava (Czech Republic) in the third year of my bachelor studies. There I gained great experience in  designing, detailing, landscaping, and calculateing EPCs. In summer 2014 I got an internship with K4 Architects in Birmingham.</span>
+Hello, I am Blanka Cahová. I have two Master´s degrees from two best Czech technical universities, one from Architecture, one from Buildings and Environment - the part of Civil Engineering which deals with sustainability, new technologies and building thermal engineering. Thanks to these two fields of study I am able to design sustainable projects, passive or low energy buildings, calculate EPCs, and incorporate new technologies into designs. To extend my knowledge I started to work for a small studio in Jihlava (Czech Republic) in the third year of my bachelor studies. There I gained great experience in  designing, detailing, landscaping, and calculating EPCs. In summer 2014 I got an internship with K4 Architects in Birmingham.</span>
       </div>
     </td>
   </tr>
